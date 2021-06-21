@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": null,
+    "data": [
+        {
+            "pid": 600,
+            "title": "title",
+            "status": 0,
+            "gameport": 47429,
+            "queryport": 65316,
+            "version": "590971",
+            "players": 36,
+            "slots": 75
+        }
+    ]
+}
